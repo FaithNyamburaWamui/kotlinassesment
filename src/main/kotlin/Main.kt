@@ -22,7 +22,7 @@ fun isValues(num1:Int,num2:Int,num3:Int){
 
 
 fun calculate(num:Double){
-    var volume = 4/3*22/7*3.14159*3.14159*3.14159
+    var volume = 4/3*3.14159*22*22*22
     println(volume)
 
 }
